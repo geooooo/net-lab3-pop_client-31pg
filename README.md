@@ -1,1 +1,1 @@
-# 3 Лаба по сетям 31-ПГ
+# Lab 3 for network course, 3 course, 31PG group
